@@ -1,4 +1,4 @@
-# kitaab_mall
+# KitaabMall
  This is a project of Machine Learning which is created by using kNN.
 
 First of All Welcome Everyone!
